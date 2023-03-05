@@ -7,7 +7,7 @@ public class Francisco_PomataGIT {
 
     public static void main(String[] args) {
         int entero;
-        entero = 5;
+        entero = 6;
         System.out.println("Este es un mensaje para realizar pruebas, ahí va un número: " + entero);
     }
 
