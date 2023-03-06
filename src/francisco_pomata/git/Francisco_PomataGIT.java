@@ -9,6 +9,7 @@ public class Francisco_PomataGIT {
         int entero;
         entero = 6;
         System.out.println("Este es un mensaje para realizar pruebas, ahí va un número: " + entero);
+   // Ejercicio 10 y último
     }
 
 }
